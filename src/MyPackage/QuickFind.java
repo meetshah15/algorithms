@@ -27,3 +27,11 @@ public class QuickFind {
     }
 
 }
+
+class mainFunctionv2 {
+
+    public static void main(String[] args) {
+        QuickFind qf  = new QuickFind();
+        qf.QuickFindUF(10);
+    }
+}
