@@ -14,4 +14,4 @@ def count_primes(n):
 
 
 if __name__ == '__main__':
-    print(count_primes(10))
+    print(count_primes(100))
